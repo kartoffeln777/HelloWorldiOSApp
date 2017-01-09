@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        println("Making a change to push to github")
+        print("Making a change to push to github")
     }
 
     override func didReceiveMemoryWarning() {
